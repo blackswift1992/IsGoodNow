@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("commit2.2")
+        print("commit2.1")
         
     }
 
